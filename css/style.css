@@ -1,3 +1,13 @@
 body {
     text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.stats {
+    width:505px;
+    margin: 0 auto;
+}
+
+.wins {
+
 }
